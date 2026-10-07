@@ -192,7 +192,6 @@ Content-Type: application/json
 
 - [ ] Edit generated content before scheduling
 - [ ] Platform-specific formatting (for example the 280-character limit for X)
-- [ ] AI image generation (removed for now to keep the project free to run)
 - [ ] Analytics dashboard
 - [ ] Always-on scheduler hosting
 
